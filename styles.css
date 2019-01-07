@@ -1,0 +1,34 @@
+#crab{
+    display:none;
+}
+#x{
+   display:none; 
+}
+#en{
+    display:none;
+    width:300px;
+}
+#p{
+    display:none;
+}
+#b{
+   display:none; 
+}
+#k{
+    display:none;
+}
+#m{
+    display:none;
+}
+#L{
+   display:none;
+   font-size:30px;
+}
+body{
+    text-align:center;
+}
+#N{
+    display:none;
+    width:700px;
+    height:400px;
+}
